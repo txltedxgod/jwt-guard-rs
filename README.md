@@ -1,5 +1,11 @@
 # jwt-guard-rs
 
+[![Rust CI](https://github.com/txltedxgod/jwt-guard-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/txltedxgod/jwt-guard-rs/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Rust](https://img.shields.io/badge/rust-Axum-DEA584.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Redis](https://img.shields.io/badge/redis-revocation_cache-DC382D.svg?logo=redis&logoColor=white)](https://redis.io/)
+
+
 > High-throughput **JWT Authentication & Token Revocation Gateway** with **Redis JTI blacklisting**, Argon2 hashing, and async **Axum** microservice routing written in **Rust 2021**.
 
 [![Rust](https://img.shields.io/badge/Rust-2021-DEA584?style=flat-square&logo=rust)](https://rust-lang.org)
