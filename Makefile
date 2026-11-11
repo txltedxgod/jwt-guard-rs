@@ -9,7 +9,7 @@ run:
 	cargo run
 
 lint:
-	@echo "Running lint checks..."
+	cargo clippy --all-targets -- -D warnings
 
 clean:
 	@echo "Cleaning artifacts..."
