@@ -19,6 +19,18 @@
 
 ---
 
+## 🎬 Feature Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="JWT Guard RS Feature Demo — High-Speed JWT Auth & Redis JTI Revocation Gateway" width="840" />
+</p>
+<p align="center">
+  <sub><a href="assets/demo.mp4">Watch / Download 1080p60 MP4</a></sub>
+</p>
+
+---
+---
+
 ## 🏛️ Token Verification & Revocation Flow
 
 ```mermaid
